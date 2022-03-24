@@ -1,0 +1,74 @@
+#main{
+    /* border: 1px solid red; */
+    width: fit-content;
+    margin-top: 200px;
+    margin-left: 400px;
+    
+}
+.main{
+    /* border: 1px solid whitesmoke; */
+    margin:5px
+}
+#grid2{
+    width: 400px;
+}
+#find1{
+    display: inline-block;
+    cursor: pointer;
+}
+#find2{
+    display: inline-block;
+    cursor: pointer;
+}
+#logo{
+    width: fit-content;
+    float: inline-end;
+    position: relative;
+    bottom: 60px;
+    right: 10px;
+    padding: 10px;
+    border-radius:90%;
+    border-width: 3px;
+    background-color:dimgray;
+}
+#find1{
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    padding: 3px;
+}
+#find2{
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.btn{
+    border :2px white solid;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+
+}
+#btn{
+    /* border: 1px solid red; */
+    padding-top: 15px;
+    width: 150px;
+    
+}
+#white{
+    background-color: antiquewhite;
+}
+
+#green{
+    background-color: greenyellow;
+}
+
+#sky{
+    background-color: skyblue;
+}
+
+#aqua{
+    background-color: aquamarine;
+}
